@@ -26,13 +26,13 @@ $('.image-link').magnificPopup({
 	removalDelay: 300,
 	});
 	
-$('.open-popup').magnificPopup({
-  type:'inline',
-  // Delay in milliseconds before popup is removed
-  removalDelay: 300,
-  mainClass: 'mfp-fade',
-  midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
-});
+// $('.open-popup').magnificPopup({
+//   type:'inline',
+//   // Delay in milliseconds before popup is removed
+//   removalDelay: 300,
+//   mainClass: 'mfp-fade',
+//   midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
+// });
 
 
 	/* animated

@@ -4,3 +4,12 @@
 .intro-area h1{
     margin-top: 0;
 }
+.navbar a.navbar-brand{
+    padding: 10px;
+}
+
+.footer-img{
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 6px;
+}
